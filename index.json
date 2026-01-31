@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Tamil-Kannada(Transliterated)",
+    "name": "Tamil – Kannada (Transliterated)",
+    "file": "Tamil-Kannada(Transliterated)_songs.xml"
+  },
+  {
+    "id": "Kannada",
+    "name": "Kannada",
+    "file": "Kannada_songs.xml"
+  },
+  {
+    "id": "English1",
+    "name": "English",
+    "file": "English1_songs.xml"
+  },
+  {
+    "id": "Telugu",
+    "name": "Telugu",
+    "file": "Telugu_songs.xml"
+  }
+]
